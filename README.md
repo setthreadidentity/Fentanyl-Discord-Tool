@@ -1,2 +1,2 @@
 # Fentanyl Discord Tool (Closed Source)
-* Discord tool too take Advantage Discords WEAK API
+* Discord tool to take Advantage Discords WEAK API

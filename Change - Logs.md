@@ -2,6 +2,7 @@
 
 # Added 
 [+] Server Nuker With a Customizeable Config (Interactive Command)
+
 [+] Token Checker
 
 # Removed
